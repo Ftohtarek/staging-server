@@ -1,0 +1,17 @@
+{
+  "authentication": {
+    "create_new_account": "To create a new account, enter your data"
+  },
+  "label": {
+    "frist_name": "First Name",
+    "last_name": "Last Name",
+    "mobile_number": "Enter Your Mobile Number",
+    "email": "E-mail",
+    "password": "Enter Your Password",
+    "agree": "I Agree",
+    "terms_condations": "Terms and Conditions",
+    "new_account": "Create New Account",
+    "already_have_account": "You Already Have an account",
+    "login": "Login"
+  }
+}

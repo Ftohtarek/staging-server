@@ -1,0 +1,17 @@
+{
+  "authentication": {
+    "create_new_account": "لإنشاء حساب جديد ادخل البيانات "
+  },
+  "label": {
+    "frist_name": "الإسم الأول",
+    "last_name": "الإسم الثانى",
+    "mobile_number": "أدخل رقم الجوال",
+    "email": "البريد الإلكترونى",
+    "password": "من فضلك أدخل كلمة المرور ",
+    "agree": "أوافق",
+    "terms_condations": "الشروط والأحكام ",
+    "new_account": "أنشئ حساب جديد",
+    "already_have_account": "لديك حساب بالفعل",
+    "login": "تسجيل الدخول"
+  }
+}

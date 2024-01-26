@@ -1,4 +1,34 @@
 {
+  "home": {
+    "from": "from",
+    "to": "to",
+    "search": "search",
+    "location": "location",
+    "where?": "where are you going ?",
+    "view_more": "view more",
+    "currency":"SAR",
+    "famous_countries":"Famous Countries",
+    "famous_cities":"Famous Cities",
+    "office": "offices",
+    "reservation":"Reservation",
+    "car_reservation":"Car Reservation",
+    "licenses":"Licenses"
+  },
+  "card": {
+    "sale": "sale off",
+    "day": "Day",
+    "night": "Night",
+    "per_night":"per night"
+  },
+  "auth": {
+    "login": "Login"
+  },
+  "screen": {
+    "offers": "offers",
+    "about_us": "about us",
+    "privacy": "privacy",
+    "usage_insturctions": "usage insturctions"
+  },
   "authentication": {
     "create_new_account": "To create a new account, enter your data"
   },

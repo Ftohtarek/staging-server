@@ -1,4 +1,38 @@
 {
+  "home": {
+    "from":"من",
+    "to":"إلى",
+    "search":"البحث",
+    "location": "المكان",
+    "where?":"الواجهة",
+    "view_more": "المزيد",
+    "currency":"ر.س",
+    "famous_countries":"اشهر الدول",
+    "famous_cities":"اشهر المدن",
+    "office": "المكاتب",
+    "reservation":"حجوزاتى",
+    "car_reservation":"حجز السيارات",
+    "licenses":"رخص وتصاريح"
+
+
+  },
+  "card":{
+    "sale":"خصم",
+    "day": "اليوم",
+    "night": "الليلة",
+    "per_night":"فى الليلة"
+  },
+
+  "auth": {
+    "login": "تسجيل الدخول"
+  },
+  "screen":{
+    "offers":"العروض",
+    "about_us":"من نحن",
+    "privacy":"سياسة الخصوصية",
+    "usage_insturctions":"تعليمات الاستخدام "
+  },
+
   "authentication": {
     "create_new_account": "لإنشاء حساب جديد ادخل البيانات "
   },

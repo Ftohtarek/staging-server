@@ -1,42 +1,46 @@
 {
   "home": {
-    "from":"من",
-    "to":"إلى",
-    "search":"البحث",
+    "from": "من",
+    "to": "إلى",
+    "search": "البحث",
     "location": "المكان",
-    "where?":"الواجهة",
+    "where?": "الواجهة",
     "view_more": "المزيد",
-    "currency":"ر.س",
-    "famous_countries":"اشهر الدول",
-    "famous_cities":"اشهر المدن",
+    "currency": "ر.س",
+    "famous_countries": "اشهر الدول",
+    "famous_cities": "اشهر المدن",
     "office": "المكاتب",
-    "reservation":"حجوزاتى",
-    "car_reservation":"حجز السيارات",
-    "licenses":"رخص وتصاريح"
-
-
+    "reservation": "حجوزاتى",
+    "car_reservation": "حجز السيارات",
+    "licenses": "رخص وتصاريح"
   },
-  "card":{
-    "sale":"خصم",
+  "card": {
+    "sale": "خصم",
     "day": "اليوم",
     "night": "الليلة",
-    "per_night":"فى الليلة"
+    "per_night": "فى الليلة"
   },
-
   "auth": {
     "login": "تسجيل الدخول"
   },
-  "screen":{
-    "offers":"العروض",
-    "about_us":"من نحن",
-    "privacy":"سياسة الخصوصية",
-    "usage_insturctions":"تعليمات الاستخدام "
+  "screen": {
+    "offers": "العروض",
+    "about_us": "من نحن",
+    "privacy": "سياسة الخصوصية",
+    "usage_insturctions": "تعليمات الاستخدام "
   },
-
   "authentication": {
     "create_new_account": "لإنشاء حساب جديد ادخل البيانات "
   },
   "label": {
+    "mobile_number": " رقم الجوال",
+    "password": " كلمة المرور ",
+    "login": "تسجيل الدخول",
+    "forget_password":"نسيت كلمة السر",
+    "new_account": "حساب جديد",
+    "dont_have_account":"لا تمتلك حساب"
+  },
+  "placeholder": {
     "frist_name": "الإسم الأول",
     "last_name": "الإسم الثانى",
     "mobile_number": "أدخل رقم الجوال",
@@ -44,8 +48,6 @@
     "password": "من فضلك أدخل كلمة المرور ",
     "agree": "أوافق",
     "terms_condations": "الشروط والأحكام ",
-    "new_account": "أنشئ حساب جديد",
-    "already_have_account": "لديك حساب بالفعل",
-    "login": "تسجيل الدخول"
+    "already_have_account": "لديك حساب بالفعل"
   }
 }

@@ -33,6 +33,14 @@
     "create_new_account": "To create a new account, enter your data"
   },
   "label": {
+    "mobile_number": "Mobile Number",
+    "password": "Password",
+    "login": "Login",
+    "forget_password":"Forget Password",
+    "new_account": "New Account",
+    "dont_have_account": "Don't have Account"
+  },
+  "placeholder": {
     "frist_name": "First Name",
     "last_name": "Last Name",
     "mobile_number": "Enter Your Mobile Number",
@@ -40,8 +48,6 @@
     "password": "Enter Your Password",
     "agree": "I Agree",
     "terms_condations": "Terms and Conditions",
-    "new_account": "Create New Account",
-    "already_have_account": "You Already Have an account",
-    "login": "Login"
+    "already_have_account": "You Already Have an account"
   }
 }

@@ -20,17 +20,16 @@
     "night": "الليلة",
     "per_night": "فى الليلة"
   },
-  "auth": {
-    "login": "تسجيل الدخول"
-  },
   "screen": {
     "offers": "العروض",
     "about_us": "من نحن",
     "privacy": "سياسة الخصوصية",
     "usage_insturctions": "تعليمات الاستخدام "
   },
-  "authentication": {
-    "create_new_account": "لإنشاء حساب جديد ادخل البيانات "
+  "auth": {
+    "login": "تسجيل الدخول",
+    "create_new_account": "لإنشاء حساب جديد ادخل البيانات ",
+    "new_password":"للحصول علي كلمه المرور قم بإدخال "
   },
   "label": {
     "mobile_number": " رقم الجوال",
@@ -38,7 +37,9 @@
     "login": "تسجيل الدخول",
     "forget_password":"نسيت كلمة السر",
     "new_account": "حساب جديد",
-    "dont_have_account":"لا تمتلك حساب"
+    "send_code":"ارسل رمز التحقق",
+    "dont_have_account":"لا تمتلك حساب",
+    "already_have_account": "لديك حساب بالفعل"
   },
   "placeholder": {
     "frist_name": "الإسم الأول",
@@ -47,7 +48,6 @@
     "email": "البريد الإلكترونى",
     "password": "من فضلك أدخل كلمة المرور ",
     "agree": "أوافق",
-    "terms_condations": "الشروط والأحكام ",
-    "already_have_account": "لديك حساب بالفعل"
+    "terms_condations": "الشروط والأحكام "
   }
 }

@@ -20,17 +20,17 @@
     "night": "Night",
     "per_night":"per night"
   },
-  "auth": {
-    "login": "Login"
-  },
+
   "screen": {
     "offers": "offers",
     "about_us": "about us",
     "privacy": "privacy",
     "usage_insturctions": "usage insturctions"
   },
-  "authentication": {
-    "create_new_account": "To create a new account, enter your data"
+  "auth": {
+    "login": "Login",
+    "create_new_account": "To create a new account, enter your data",
+    "new_password":"for new password enter "
   },
   "label": {
     "mobile_number": "Mobile Number",
@@ -38,7 +38,9 @@
     "login": "Login",
     "forget_password":"Forget Password",
     "new_account": "New Account",
-    "dont_have_account": "Don't have Account"
+    "send_code":"Send Code",
+    "dont_have_account": "Don't have Account",
+    "already_have_account": "You Already Have an account"
   },
   "placeholder": {
     "frist_name": "First Name",
@@ -47,7 +49,6 @@
     "email": "E-mail",
     "password": "Enter Your Password",
     "agree": "I Agree",
-    "terms_condations": "Terms and Conditions",
-    "already_have_account": "You Already Have an account"
+    "terms_condations": "Terms and Conditions"
   }
 }

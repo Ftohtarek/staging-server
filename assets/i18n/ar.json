@@ -1,5 +1,10 @@
 {
+  "slider": {
+    "discoverSama": "إكتشف سما ",
+    "explore": "أنشطة سياحية بأفضل الأسعار"
+  },
   "home": {
+    "sama":"سما",
     "from": "من",
     "to": "إلى",
     "search": "البحث",
@@ -7,38 +12,61 @@
     "where?": "الواجهة",
     "view_more": "المزيد",
     "currency": "ر.س",
-    "famous_countries": "اشهر الدول",
+    "famous_countries": "أفضل وجهات السفر",
     "famous_cities": "اشهر المدن",
-    "office": "المكاتب",
+    "office": "أحدث شركائنا",
     "reservation": "حجوزاتى",
     "car_reservation": "حجز السيارات",
-    "licenses": "رخص وتصاريح"
+    "licenses": "رخص وتصاريح",
+    "bestTrips": "افضل الرحلات السياحية",
+    "joinSama": "انضم لسما وكن شريكا لنا",
+    "provide": "نحن نضمن لك تقديم ",
+    "best": "أفضل",
+    "service": "الخدمات",
+    "mobileAdsHeader": "أفضل منصة لجميع أنشطة السياحة والسفر!",
+    "mobileAdsCaption": "  متاح الآن! قم بتحميله الآن واكتشف أنشطة جديدة بسهولة.",
+    "whySama": "لماذا سما",
+    "whySamaDescription": "سما هو أول موقع سياحي يقدم العديد من الأنشطة السياحية التي تتنوع من حيث الوجهة والسعر لتلبية جميع المتطلبات. في عطلة، نختار بعناية كل عرض بحيث يكون منظم من قبل إحدى كبريات شركات السياحة، نجمع هذه العروض كلها في قائمة موحدة لنسهل على الباحثين عن سفر تحديد وجهة رحلاتهم القادمة. ",
+    "discoverBtn1": "سجل الحساب من هنا",
+    "discover1": "اكتشفها مع عطلة الآن!",
+    "discoverCaption1": "هل تبحث عن رحلة؟",
+    "discoverBtn2": "سجل هنا",
+    "discover2": "انضم إلى شركاء عطلة",
+    "discoverCaption2": "هل تريد عرض نشاطك السياحي معنا؟"
+
+
   },
   "card": {
     "sale": "خصم",
-    "day": "اليوم",
-    "night": "الليلة",
+    "day": "يوم",
+    "night": "ليلة",
+    "days": "ايام",
+    "nights": "ليالى",
     "per_night": "فى الليلة"
   },
   "screen": {
     "offers": "العروض",
-    "about_us": "من نحن",
+    "home": "الرئيسية",
+    "travalPackages": "باقات السفر",
+    "joinUs": "انضم الينا",
+    "aboutUs": "من نحن",
     "privacy": "سياسة الخصوصية",
     "usage_insturctions": "تعليمات الاستخدام "
   },
   "auth": {
+    "loginRegister": "انضم",
     "login": "تسجيل الدخول",
     "create_new_account": "لإنشاء حساب جديد ادخل البيانات ",
-    "new_password":"للحصول علي كلمه المرور قم بإدخال "
+    "new_password": "للحصول علي كلمه المرور قم بإدخال "
   },
   "label": {
     "mobile_number": " رقم الجوال",
     "password": " كلمة المرور ",
     "login": "تسجيل الدخول",
-    "forget_password":"نسيت كلمة السر",
+    "forget_password": "نسيت كلمة السر",
     "new_account": "حساب جديد",
-    "send_code":"ارسل رمز التحقق",
-    "dont_have_account":"لا تمتلك حساب",
+    "send_code": "ارسل رمز التحقق",
+    "dont_have_account": "لا تمتلك حساب",
     "already_have_account": "لديك حساب بالفعل"
   },
   "placeholder": {

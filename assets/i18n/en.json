@@ -1,44 +1,68 @@
 {
+  "slider": {
+    "discoverSama": "Discover Sama",
+    "explore": "Explore Activities with Amazing Deals"
+  },
   "home": {
+    "sama": "Sama",
     "from": "from",
     "to": "to",
     "search": "search",
     "location": "location",
     "where?": "where are you going ?",
     "view_more": "view more",
-    "currency":"SAR",
-    "famous_countries":"Famous Countries",
-    "famous_cities":"Famous Cities",
-    "office": "offices",
-    "reservation":"Reservation",
-    "car_reservation":"Car Reservation",
-    "licenses":"Licenses"
+    "currency": "SAR",
+    "famous_countries": "Top Destinations",
+    "famous_cities": "Famous Cities",
+    "office": "Our Recent Partners",
+    "reservation": "Reservation",
+    "car_reservation": "Car Reservation",
+    "licenses": "Licenses",
+    "bestTrips": "Best tourist trips",
+    "provide": "We Guarantee that we will provide the ",
+    "best": "Best",
+    "service": "Service",
+    "mobileAdsHeader": "The ultimate tool for all your travel needs!",
+    "mobileAdsCaption": "app is now available! Download now and discover new destination and activities with ease.",
+    "whySama": "WHY Sama?",
+    "whySamaDescription": "Sama is the first travel website that offers many activit2ies and things to do that vary in destination and price to please all demands. In Ootlah, we carefully select the most interesting activities & tour packages offered by top travel agencies and put them in one place, arranged in a user-friendly list. ",
+    "discover1": "Discover it with Sama now!",
+    "discoverBtn1": "sign up here",
+    "discoverCaption1": "Looking for a travel to unravel?",
+    "discoverBtn2": "apply",
+    "discover2": "Sign up to be an Sama partner",
+    "discoverCaption2": "Have something to offer?"
   },
   "card": {
     "sale": "sale off",
     "day": "Day",
     "night": "Night",
-    "per_night":"per night"
+    "days": "Days",
+    "nights": "Nights",
+    "per_night": "per night"
   },
-
   "screen": {
     "offers": "offers",
-    "about_us": "about us",
+    "home": "Home",
+    "travalPackages": "Traval Packages",
+    "joinUs": "Join Us",
+    "aboutUs": "about us",
     "privacy": "privacy",
     "usage_insturctions": "usage insturctions"
   },
   "auth": {
+    "loginRegister": "Join",
     "login": "Login",
     "create_new_account": "To create a new account, enter your data",
-    "new_password":"for new password enter "
+    "new_password": "for new password enter "
   },
   "label": {
     "mobile_number": "Mobile Number",
     "password": "Password",
     "login": "Login",
-    "forget_password":"Forget Password",
+    "forget_password": "Forget Password",
     "new_account": "New Account",
-    "send_code":"Send Code",
+    "send_code": "Send Code",
     "dont_have_account": "Don't have Account",
     "already_have_account": "You Already Have an account"
   },

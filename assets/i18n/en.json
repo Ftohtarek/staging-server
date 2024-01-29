@@ -31,7 +31,11 @@
     "discoverCaption1": "Looking for a travel to unravel?",
     "discoverBtn2": "apply",
     "discover2": "Sign up to be an Sama partner",
-    "discoverCaption2": "Have something to offer?"
+    "discoverCaption2": "Have something to offer?",
+    "service1":"200,000+ budget-friendly tour packages",
+    "service2":"Safe and secure payment gateway!",
+    "service3":"Millions of satisfied travelers!",
+    "service4":"24/7 Global support wherever you are"
   },
   "card": {
     "sale": "sale off",

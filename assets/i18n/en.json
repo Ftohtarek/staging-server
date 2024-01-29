@@ -19,13 +19,14 @@
     "car_reservation": "Car Reservation",
     "licenses": "Licenses",
     "bestTrips": "Best tourist trips",
+    "joinSama":"Join Sama and be our partner",
     "provide": "We Guarantee that we will provide the ",
     "best": "Best",
     "service": "Service",
     "mobileAdsHeader": "The ultimate tool for all your travel needs!",
     "mobileAdsCaption": "app is now available! Download now and discover new destination and activities with ease.",
     "whySama": "WHY Sama?",
-    "whySamaDescription": "Sama is the first travel website that offers many activit2ies and things to do that vary in destination and price to please all demands. In Ootlah, we carefully select the most interesting activities & tour packages offered by top travel agencies and put them in one place, arranged in a user-friendly list. ",
+    "whySamaDescription": "Sama is the first travel website that offers many activit2ies and things to do that vary in destination and price to please all demands. In Sama, we carefully select the most interesting activities & tour packages offered by top travel agencies and put them in one place, arranged in a user-friendly list. ",
     "discover1": "Discover it with Sama now!",
     "discoverBtn1": "sign up here",
     "discoverCaption1": "Looking for a travel to unravel?",
@@ -35,7 +36,16 @@
     "service1":"200,000+ budget-friendly tour packages",
     "service2":"Safe and secure payment gateway!",
     "service3":"Millions of satisfied travelers!",
-    "service4":"24/7 Global support wherever you are"
+    "service4":"24/7 Global support wherever you are",
+    "footer1":"Sama is a home for stories that aren’t being told – stories that connect, bridge, and go deeper into worlds beyond our own.",
+    "footer2":"All rights reserved. Sama is a registered trademark and licensed.",
+    "subscribe":"subscribe",
+    "subscribeNow":"Subscribe now to get the latest travel deals from Sama",
+    "subscribeClick":"By clicking Subscribe, you have agreed to our Terms & Conditions and Privacy Policy",
+    "followUs":"Follow us on",
+    "quickLinks":"Quick Links",
+    "paymentChannels":"Payment Channels"
+
   },
   "card": {
     "sale": "sale off",
@@ -51,8 +61,9 @@
     "travalPackages": "Traval Packages",
     "joinUs": "Join Us",
     "aboutUs": "about us",
-    "privacy": "privacy",
-    "usage_insturctions": "usage insturctions"
+    "privacy": "privacy policy",
+    "usage_insturctions": "usage insturctions",
+    "becomePartner":"Become a partner"
   },
   "auth": {
     "loginRegister": "Join",

@@ -36,8 +36,15 @@
     "service1":"أكثر من 200.000 باقة سفر مميزة وبميزانية معقولة",
     "service2":"!بوابة دفع آمنة ومضمونة",
     "service3":"ملايين المسافرين الراضين!",
-    "service4":"دعم دولي 24/7 أينما كنت"
-
+    "service4":"دعم دولي 24/7 أينما كنت",
+    "footer1":"سما موطن القصص التي لا يحكيها أحد. القصص التي تربط بين الناس، وتصل بين الأماكن ، وتذهب أبعد وأعمق في عوالم خارج نطاق عالمك.",
+    "footer2":"جميع الحقوق محفوظة. سما علامة تجارية مسجلة.",
+    "subscribe":"اشترك",
+    "subscribeNow":"اشترك الآن لتصلك أحدث عروض السفر من سما",
+    "subscribeClick":"By clicking Subscribe, you have agreed to our Terms & Conditions and Privacy Policy",
+    "followUs":"تابعنا على",
+    "quickLinks":"روابط سريعة",
+    "paymentChannels":"طرق الدفع"
 
   },
   "card": {
@@ -55,10 +62,12 @@
     "joinUs": "انضم الينا",
     "aboutUs": "من نحن",
     "privacy": "سياسة الخصوصية",
-    "usage_insturctions": "تعليمات الاستخدام "
+    "usage_insturctions": "تعليمات الاستخدام ",
+    "becomePartner":"انضم لشركائنا"
+
   },
   "auth": {
-    "loginRegister": "انضم",
+    "loginRegister": "تسجيل دخول",
     "login": "تسجيل الدخول",
     "create_new_account": "لإنشاء حساب جديد ادخل البيانات ",
     "new_password": "للحصول علي كلمه المرور قم بإدخال "

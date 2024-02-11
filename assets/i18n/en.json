@@ -5,8 +5,8 @@
   },
   "home": {
     "sama": "Sama",
-    "from": "from",
-    "to": "to",
+    "from": "From",
+    "to": "To",
     "search": "search",
     "location": "location",
     "where?": "where are you going ?",
@@ -20,7 +20,7 @@
     "licenses": "Licenses",
     "bestTrips": "Best tourist trips",
     "bestTripsWithoutVisa": "Tourist trips without international visas",
-    "joinSama":"Join Sama and be our partner",
+    "joinSama": "Join Sama and be our partner",
     "provide": "We Guarantee that we will provide the ",
     "best": "Best",
     "service": "Service",
@@ -34,19 +34,18 @@
     "discoverBtn2": "apply",
     "discover2": "Sign up to be an Sama partner",
     "discoverCaption2": "Have something to offer?",
-    "service1":"200,000+ budget-friendly tour packages",
-    "service2":"Safe and secure payment gateway!",
-    "service3":"Millions of satisfied travelers!",
-    "service4":"24/7 Global support wherever you are",
-    "footer1":"Sama is a home for stories that aren’t being told – stories that connect, bridge, and go deeper into worlds beyond our own.",
-    "footer2":"All rights reserved. Sama is a registered trademark and licensed.",
-    "subscribe":"subscribe",
-    "subscribeNow":"Subscribe now to get the latest travel deals from Sama",
-    "subscribeClick":"By clicking Subscribe, you have agreed to our Terms & Conditions and Privacy Policy",
-    "followUs":"Follow us on",
-    "quickLinks":"Quick Links",
-    "paymentChannels":"Payment Channels"
-
+    "service1": "200,000+ budget-friendly tour packages",
+    "service2": "Safe and secure payment gateway!",
+    "service3": "Millions of satisfied travelers!",
+    "service4": "24/7 Global support wherever you are",
+    "footer1": "Sama is a home for stories that aren’t being told – stories that connect, bridge, and go deeper into worlds beyond our own.",
+    "footer2": "All rights reserved. Sama is a registered trademark and licensed.",
+    "subscribe": "subscribe",
+    "subscribeNow": "Subscribe now to get the latest travel deals from Sama",
+    "subscribeClick": "By clicking Subscribe, you have agreed to our Terms & Conditions and Privacy Policy",
+    "followUs": "Follow us on",
+    "quickLinks": "Quick Links",
+    "paymentChannels": "Payment Channels"
   },
   "card": {
     "sale": "sale off",
@@ -64,7 +63,7 @@
     "aboutUs": "about us",
     "privacy": "privacy policy",
     "usage_insturctions": "usage insturctions",
-    "becomePartner":"Become a partner"
+    "becomePartner": "Become a partner"
   },
   "auth": {
     "loginRegister": "Join",
@@ -90,5 +89,12 @@
     "password": "Enter Your Password",
     "agree": "I Agree",
     "terms_condations": "Terms and Conditions"
+  },
+  "offerPage": {
+    "price": "price",
+    "minPrice": "min price",
+    "maxPrice": "max price",
+    "countries": "countries",
+    "cities": "cities"
   }
 }

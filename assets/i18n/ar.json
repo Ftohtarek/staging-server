@@ -4,7 +4,7 @@
     "explore": "أنشطة سياحية بأفضل الأسعار"
   },
   "home": {
-    "sama":"سما",
+    "sama": "سما",
     "from": "من",
     "to": "إلى",
     "search": "البحث",
@@ -34,19 +34,18 @@
     "discoverBtn2": "سجل هنا",
     "discover2": "انضم إلى شركاء سما",
     "discoverCaption2": "هل تريد عرض نشاطك السياحي معنا؟",
-    "service1":"أكثر من 200.000 باقة سفر مميزة وبميزانية معقولة",
-    "service2":"!بوابة دفع آمنة ومضمونة",
-    "service3":"ملايين المسافرين الراضين!",
-    "service4":"دعم دولي 24/7 أينما كنت",
-    "footer1":"سما موطن القصص التي لا يحكيها أحد. القصص التي تربط بين الناس، وتصل بين الأماكن ، وتذهب أبعد وأعمق في عوالم خارج نطاق عالمك.",
-    "footer2":"جميع الحقوق محفوظة. سما علامة تجارية مسجلة.",
-    "subscribe":"اشترك",
-    "subscribeNow":"اشترك الآن لتصلك أحدث عروض السفر من سما",
-    "subscribeClick":"By clicking Subscribe, you have agreed to our Terms & Conditions and Privacy Policy",
-    "followUs":"تابعنا على",
-    "quickLinks":"روابط سريعة",
-    "paymentChannels":"طرق الدفع"
-
+    "service1": "أكثر من 200.000 باقة سفر مميزة وبميزانية معقولة",
+    "service2": "!بوابة دفع آمنة ومضمونة",
+    "service3": "ملايين المسافرين الراضين!",
+    "service4": "دعم دولي 24/7 أينما كنت",
+    "footer1": "سما موطن القصص التي لا يحكيها أحد. القصص التي تربط بين الناس، وتصل بين الأماكن ، وتذهب أبعد وأعمق في عوالم خارج نطاق عالمك.",
+    "footer2": "جميع الحقوق محفوظة. سما علامة تجارية مسجلة.",
+    "subscribe": "اشترك",
+    "subscribeNow": "اشترك الآن لتصلك أحدث عروض السفر من سما",
+    "subscribeClick": "By clicking Subscribe, you have agreed to our Terms & Conditions and Privacy Policy",
+    "followUs": "تابعنا على",
+    "quickLinks": "روابط سريعة",
+    "paymentChannels": "طرق الدفع"
   },
   "card": {
     "sale": "خصم",
@@ -64,8 +63,7 @@
     "aboutUs": "من نحن",
     "privacy": "سياسة الخصوصية",
     "usage_insturctions": "تعليمات الاستخدام ",
-    "becomePartner":"انضم لشركائنا"
-
+    "becomePartner": "انضم لشركائنا"
   },
   "auth": {
     "loginRegister": "تسجيل دخول",
@@ -91,5 +89,12 @@
     "password": "من فضلك أدخل كلمة المرور ",
     "agree": "أوافق",
     "terms_condations": "الشروط والأحكام "
+  },
+  "offerPage": {
+    "price": "السعر",
+    "minPrice": "اقل سعر",
+    "maxPrice": "اعلى سعر",
+    "countries": "الدول",
+    "cities": "المدن"
   }
 }

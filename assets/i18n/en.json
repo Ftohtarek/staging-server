@@ -95,6 +95,7 @@
     "minPrice": "min price",
     "maxPrice": "max price",
     "countries": "countries",
-    "cities": "cities"
+    "cities": "cities",
+    "selectCountryFirst":"Select Country First"
   }
 }

@@ -95,6 +95,8 @@
     "minPrice": "اقل سعر",
     "maxPrice": "اعلى سعر",
     "countries": "الدول",
-    "cities": "المدن"
+    "cities": "المدن",
+    "selectCountryFirst":"قم بإختيار الدولة اولاً"
+
   }
 }

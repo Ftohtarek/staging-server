@@ -96,6 +96,7 @@
     "maxPrice": "max price",
     "countries": "countries",
     "cities": "cities",
-    "selectCountryFirst":"Select Country First"
+    "selectCountryFirst": "Select Country First",
+    "offerHeader": "The best tourist packages"
   }
 }

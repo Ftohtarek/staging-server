@@ -98,5 +98,11 @@
     "cities": "cities",
     "selectCountryFirst": "Select Country First",
     "offerHeader": "The best tourist packages"
+  },
+  "userAccount":{
+    "profile":"Profile",
+    "reservation":"My Reservations",
+    "offerBooking":"Offers Bookings",
+    "favourites":"My Favourites"
   }
 }

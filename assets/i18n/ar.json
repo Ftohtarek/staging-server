@@ -98,5 +98,12 @@
     "cities": "المدن",
     "selectCountryFirst": "قم بإختيار الدولة اولاً",
     "offerHeader": "أفضل الباكدجان السياحية"
+  },
+  "userAccount": {
+    "profile": "الملف الشخصى",
+    "reservation":"حجوزاتى",
+    "offerBooking":"حجوزات العروض",
+    "favourites":"قائمة المفضلة"
+
   }
 }

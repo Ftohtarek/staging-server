@@ -79,7 +79,9 @@
     "new_account": "New Account",
     "send_code": "Send Code",
     "dont_have_account": "Don't have Account",
-    "already_have_account": "You Already Have an account"
+    "already_have_account": "You Already Have an account",
+    "update": "Update Account",
+    "vipDate":"Vip Join Date"
   },
   "placeholder": {
     "frist_name": "First Name",
@@ -99,10 +101,14 @@
     "selectCountryFirst": "Select Country First",
     "offerHeader": "The best tourist packages"
   },
-  "userAccount":{
-    "profile":"Profile",
-    "reservation":"My Reservations",
-    "offerBooking":"Offers Bookings",
-    "favourites":"My Favourites"
+  "userAccount": {
+    "profile": "Profile",
+    "reservation": "My Reservations",
+    "offerBooking": "Offers Bookings",
+    "favourites": "My Favourites"
+  },
+  "cropper": {
+    "save": "save",
+    "cancel": "cancel"
   }
 }

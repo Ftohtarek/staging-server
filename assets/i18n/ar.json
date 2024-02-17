@@ -79,7 +79,11 @@
     "new_account": "حساب جديد",
     "send_code": "ارسل رمز التحقق",
     "dont_have_account": "لا تمتلك حساب",
-    "already_have_account": "لديك حساب بالفعل"
+    "already_have_account": "لديك حساب بالفعل",
+    "update": "تحديث",
+    "vipDate":"Vip تاريخ اشتراك"
+
+
   },
   "placeholder": {
     "frist_name": "الإسم الأول",
@@ -104,6 +108,9 @@
     "reservation":"حجوزاتى",
     "offerBooking":"حجوزات العروض",
     "favourites":"قائمة المفضلة"
-
+  },
+  "cropper": {
+    "save":"حفظ",
+    "cancel":"إلغاء"
   }
 }

@@ -81,7 +81,7 @@
     "dont_have_account": "Don't have Account",
     "already_have_account": "You Already Have an account",
     "update": "Update Account",
-    "vipDate":"Vip Join Date"
+    "vipDate": "Vip Join Date"
   },
   "placeholder": {
     "frist_name": "First Name",
@@ -105,7 +105,9 @@
     "profile": "Profile",
     "reservation": "My Reservations",
     "offerBooking": "Offers Bookings",
-    "favourites": "My Favourites"
+    "favourites": "My Favourites",
+    "samaWallet":"Sama Wallet",
+    "walletBalance": "Wallet Balance"
   },
   "cropper": {
     "save": "save",

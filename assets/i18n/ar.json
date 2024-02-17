@@ -81,9 +81,7 @@
     "dont_have_account": "لا تمتلك حساب",
     "already_have_account": "لديك حساب بالفعل",
     "update": "تحديث",
-    "vipDate":"Vip تاريخ اشتراك"
-
-
+    "vipDate": "Vip تاريخ اشتراك"
   },
   "placeholder": {
     "frist_name": "الإسم الأول",
@@ -105,12 +103,14 @@
   },
   "userAccount": {
     "profile": "الملف الشخصى",
-    "reservation":"حجوزاتى",
-    "offerBooking":"حجوزات العروض",
-    "favourites":"قائمة المفضلة"
+    "reservation": "حجوزاتى",
+    "offerBooking": "حجوزات العروض",
+    "favourites": "قائمة المفضلة",
+    "samaWallet": "محفظة سما",
+    "walletBalance": "رصيد المحفظة "
   },
   "cropper": {
-    "save":"حفظ",
-    "cancel":"إلغاء"
+    "save": "حفظ",
+    "cancel": "إلغاء"
   }
 }

@@ -112,5 +112,13 @@
   "cropper": {
     "save": "حفظ",
     "cancel": "إلغاء"
+  },
+  "reservation": {
+    "orderNo": "رقم الطلب",
+    "date": "تاريخ الطلب",
+    "service": "خدمة",
+    "details": "تفاصيل الطلب",
+    "currentReservation": "الطلبات الحالية",
+    "completedReservation": "الطلبات المكتملة "
   }
 }

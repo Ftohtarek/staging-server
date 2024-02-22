@@ -61,6 +61,7 @@
     "travalPackages": "Traval Packages",
     "joinUs": "Join Us",
     "aboutUs": "about us",
+    "contactUs": "Contact Us",
     "privacy": "privacy policy",
     "usage_insturctions": "usage insturctions",
     "becomePartner": "Become a partner"
@@ -68,6 +69,7 @@
   "auth": {
     "loginRegister": "Join",
     "login": "Login",
+    "logout": "logout",
     "create_new_account": "To create a new account, enter your data",
     "new_password": "for new password enter "
   },
@@ -106,19 +108,27 @@
     "reservation": "My Reservations",
     "offerBooking": "Offers Bookings",
     "favourites": "My Favourites",
-    "samaWallet":"Sama Wallet",
-    "walletBalance": "Wallet Balance"
+    "samaWallet": "Sama Wallet",
+    "walletBalance": "Wallet Balance",
+    "deleteAccount":"Delete Account"
+
   },
   "cropper": {
     "save": "save",
     "cancel": "cancel"
   },
-  "reservation":{
+  "reservation": {
     "orderNo": "Reservation No",
     "date": "Reservation date",
     "service": "service",
     "details": "Reservation details",
     "currentReservation": "Current reservation",
     "completedReservation": "Completed reservation"
+  },
+  "menu": {
+    "setting": "setting",
+    "changeLang": "change language",
+    "selectLang": "Please Select Favouite Language",
+    "reachOutUs":"Reach Out To Us"
   }
 }

@@ -61,6 +61,7 @@
     "travalPackages": "باقات السفر",
     "joinUs": "انضم الينا",
     "aboutUs": "من نحن",
+    "contactUs": "تواصل معانا",
     "privacy": "سياسة الخصوصية",
     "usage_insturctions": "تعليمات الاستخدام ",
     "becomePartner": "انضم لشركائنا"
@@ -68,6 +69,7 @@
   "auth": {
     "loginRegister": "تسجيل دخول",
     "login": "تسجيل الدخول",
+    "logout": "تسجيل الخروج",
     "create_new_account": "لإنشاء حساب جديد ادخل البيانات ",
     "new_password": "للحصول علي كلمه المرور قم بإدخال "
   },
@@ -107,7 +109,8 @@
     "offerBooking": "حجوزات العروض",
     "favourites": "قائمة المفضلة",
     "samaWallet": "محفظة سما",
-    "walletBalance": "رصيد المحفظة "
+    "walletBalance": "رصيد المحفظة ",
+    "deleteAccount":"حذف الحساب"
   },
   "cropper": {
     "save": "حفظ",
@@ -120,5 +123,12 @@
     "details": "تفاصيل الطلب",
     "currentReservation": "الطلبات الحالية",
     "completedReservation": "الطلبات المكتملة "
+  },
+  "menu": {
+    "setting": "الاعدادات",
+    "changeLang": "تغير اللغة",
+    "selectLang": "اختر لغتك المفضلة",
+    "reachOutUs":"التواصل معنا"
+
   }
 }

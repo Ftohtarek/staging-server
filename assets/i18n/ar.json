@@ -11,7 +11,7 @@
     "location": "المكان",
     "where?": "  وجهة السفر او النشاط",
     "view_more": "المزيد",
-    "moreInfo":"المزيد من المعلومات",
+    "moreInfo": "المزيد من المعلومات",
     "currency": "ر.س",
     "famous_countries": "أفضل وجهات السفر",
     "famous_cities": "اشهر المدن",
@@ -111,7 +111,7 @@
     "favourites": "قائمة المفضلة",
     "samaWallet": "محفظة سما",
     "walletBalance": "رصيد المحفظة ",
-    "deleteAccount":"حذف الحساب"
+    "deleteAccount": "حذف الحساب"
   },
   "cropper": {
     "save": "حفظ",
@@ -129,7 +129,10 @@
     "setting": "الاعدادات",
     "changeLang": "تغير اللغة",
     "selectLang": "اختر لغتك المفضلة",
-    "reachOutUs":"التواصل معنا"
-
+    "reachOutUs": "التواصل معنا"
+  },
+  "offerDetails": {
+    "details": "التفاصيل",
+    "checkMore": "تفقد ايضا"
   }
 }

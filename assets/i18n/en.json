@@ -131,5 +131,9 @@
     "changeLang": "change language",
     "selectLang": "Please Select Favouite Language",
     "reachOutUs":"Reach Out To Us"
+  },
+  "offerDetails":{
+    "details":"Details",
+    "checkMore":"check More"
   }
 }

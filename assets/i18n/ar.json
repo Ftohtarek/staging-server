@@ -133,6 +133,12 @@
   },
   "offerDetails": {
     "details": "التفاصيل",
-    "checkMore": "تفقد ايضا"
+    "checkMore": "تفقد ايضا",
+    "reserveNow": "احجز الان",
+    "peopleNo": "عدد الاشخاص",
+    "selectDate": "اختر التاريخ",
+    "adult":"بالغ ( > 12 سنة )",
+    "children":"طفل ( 2 - 12 سنة )",
+    "confirm":"تاكيد"
   }
 }

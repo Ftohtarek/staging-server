@@ -134,6 +134,12 @@
   },
   "offerDetails":{
     "details":"Details",
-    "checkMore":"check More"
+    "checkMore":"check More",
+    "reserveNow":"Reserve Now",
+    "peopleNo":"number of people",
+    "selectDate":"select Date",
+    "adult":"adult (> 12 years old)",
+    "children":"child (2 - 12 years old)",
+    "confirm":"confirm"
   }
 }

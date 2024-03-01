@@ -109,7 +109,9 @@
     "countries": "الدول",
     "cities": "المدن",
     "selectCountryFirst": "قم بإختيار الدولة اولاً",
-    "offerHeader": "أفضل الباكدجان السياحية"
+    "offerHeader": "أفضل الباكدجان السياحية",
+    "apply": "تطبيق",
+    "reset":"إعادة تعين"
   },
   "userAccount": {
     "profile": "الملف الشخصى",

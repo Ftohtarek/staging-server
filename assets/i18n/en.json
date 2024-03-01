@@ -112,7 +112,9 @@
     "countries": "countries",
     "cities": "cities",
     "selectCountryFirst": "Select Country First",
-    "offerHeader": "The best tourist packages"
+    "offerHeader": "The best tourist packages",
+    "apply": "Apply",
+    "reset":"Reset"
   },
   "userAccount": {
     "profile": "Profile",

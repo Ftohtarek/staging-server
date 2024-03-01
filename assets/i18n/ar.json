@@ -67,6 +67,12 @@
     "usage_insturctions": "تعليمات الاستخدام ",
     "becomePartner": "انضم لشركائنا"
   },
+  "contactUs": {
+    "title": "قم بالتواصل معنا عبر ",
+    "title2": "او قم بالتواصل معنا عبر بإرسال استفسارك",
+    "subject": "الموضوع",
+    "inquiry": "استفسارك"
+  },
   "auth": {
     "loginRegister": "تسجيل دخول",
     "login": "تسجيل الدخول",
@@ -84,7 +90,8 @@
     "dont_have_account": "لا تمتلك حساب",
     "already_have_account": "لديك حساب بالفعل",
     "update": "تحديث",
-    "vipDate": "Vip تاريخ اشتراك"
+    "vipDate": "Vip تاريخ اشتراك",
+    "send": "ارسال"
   },
   "placeholder": {
     "frist_name": "الإسم الأول",
@@ -137,8 +144,8 @@
     "reserveNow": "احجز الان",
     "peopleNo": "عدد الاشخاص",
     "selectDate": "اختر التاريخ",
-    "adult":"بالغ ( > 12 سنة )",
-    "children":"طفل ( 2 - 12 سنة )",
-    "confirm":"تاكيد"
+    "adult": "بالغ ( > 12 سنة )",
+    "children": "طفل ( 2 - 12 سنة )",
+    "confirm": "تاكيد"
   }
 }

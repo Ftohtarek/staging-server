@@ -11,7 +11,7 @@
     "location": "location",
     "where?": "where are you going ?",
     "view_more": "view more",
-    "moreInfo":"more infromation",
+    "moreInfo": "more infromation",
     "currency": "SAR",
     "famous_countries": "Top Destinations",
     "famous_cities": "Famous Cities",
@@ -57,16 +57,23 @@
     "per_night": "per night"
   },
   "screen": {
+    "contactUs": "Contact Us",
     "offers": "offers",
     "home": "Home",
     "travalPackages": "Traval Packages",
     "joinUs": "Join Us",
     "aboutUs": "about us",
-    "contactUs": "Contact Us",
     "privacy": "privacy policy",
     "usage_insturctions": "usage insturctions",
     "becomePartner": "Become a partner"
   },
+  "contactUs": {
+    "title": "Get in touch with us through",
+    "title2": "or Get in touch with us by sending your inquiry",
+    "subject": "Subject",
+    "inquiry": "Your inquiry"
+  },
+
   "auth": {
     "loginRegister": "Join",
     "login": "Login",
@@ -84,13 +91,16 @@
     "dont_have_account": "Don't have Account",
     "already_have_account": "You Already Have an account",
     "update": "Update Account",
-    "vipDate": "Vip Join Date"
+    "vipDate": "Vip Join Date",
+    "send":"Send"
   },
   "placeholder": {
     "frist_name": "First Name",
     "last_name": "Last Name",
     "mobile_number": "Enter Your Mobile Number",
     "email": "E-mail",
+    "typeHere":"Type Here",
+    "phone": "Phone",
     "password": "Enter Your Password",
     "agree": "I Agree",
     "terms_condations": "Terms and Conditions"
@@ -111,8 +121,7 @@
     "favourites": "My Favourites",
     "samaWallet": "Sama Wallet",
     "walletBalance": "Wallet Balance",
-    "deleteAccount":"Delete Account"
-
+    "deleteAccount": "Delete Account"
   },
   "cropper": {
     "save": "save",
@@ -130,16 +139,16 @@
     "setting": "setting",
     "changeLang": "change language",
     "selectLang": "Please Select Favouite Language",
-    "reachOutUs":"Reach Out To Us"
+    "reachOutUs": "Reach Out To Us"
   },
-  "offerDetails":{
-    "details":"Details",
-    "checkMore":"check More",
-    "reserveNow":"Reserve Now",
-    "peopleNo":"number of people",
-    "selectDate":"select Date",
-    "adult":"adult (> 12 years old)",
-    "children":"child (2 - 12 years old)",
-    "confirm":"confirm"
+  "offerDetails": {
+    "details": "Details",
+    "checkMore": "check More",
+    "reserveNow": "Reserve Now",
+    "peopleNo": "number of people",
+    "selectDate": "select Date",
+    "adult": "adult (> 12 years old)",
+    "children": "child (2 - 12 years old)",
+    "confirm": "confirm"
   }
 }

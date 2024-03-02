@@ -111,7 +111,9 @@
     "selectCountryFirst": "قم بإختيار الدولة اولاً",
     "offerHeader": "أفضل الباكدجان السياحية",
     "apply": "تطبيق",
-    "reset":"إعادة تعين"
+    "reset":"إعادة تعين",
+    "noResult":"لا يوجد عروض حاليا"
+
   },
   "userAccount": {
     "profile": "الملف الشخصى",

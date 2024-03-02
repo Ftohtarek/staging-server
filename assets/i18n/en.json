@@ -114,7 +114,8 @@
     "selectCountryFirst": "Select Country First",
     "offerHeader": "The best tourist packages",
     "apply": "Apply",
-    "reset":"Reset"
+    "reset":"Reset",
+    "noResult":"no offer now available"
   },
   "userAccount": {
     "profile": "Profile",

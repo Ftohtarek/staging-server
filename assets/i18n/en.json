@@ -153,5 +153,8 @@
     "adult": "adult (> 12 years old)",
     "children": "child (2 - 12 years old)",
     "confirm": "confirm"
+  },
+  "general":{
+    "downloadApp":"Download Sama Now"
   }
 }

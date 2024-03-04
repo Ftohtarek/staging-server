@@ -73,7 +73,6 @@
     "subject": "Subject",
     "inquiry": "Your inquiry"
   },
-
   "auth": {
     "loginRegister": "Join",
     "login": "Login",
@@ -92,14 +91,14 @@
     "already_have_account": "You Already Have an account",
     "update": "Update Account",
     "vipDate": "Vip Join Date",
-    "send":"Send"
+    "send": "Send"
   },
   "placeholder": {
     "frist_name": "First Name",
     "last_name": "Last Name",
     "mobile_number": "Enter Your Mobile Number",
     "email": "E-mail",
-    "typeHere":"Type Here",
+    "typeHere": "Type Here",
     "phone": "Phone",
     "password": "Enter Your Password",
     "agree": "I Agree",
@@ -114,8 +113,8 @@
     "selectCountryFirst": "Select Country First",
     "offerHeader": "The best tourist packages",
     "apply": "Apply",
-    "reset":"Reset",
-    "noResult":"no offer now available"
+    "reset": "Reset",
+    "noResult": "no offer now available"
   },
   "userAccount": {
     "profile": "Profile",
@@ -154,10 +153,41 @@
     "children": "child (2 - 12 years old)",
     "confirm": "confirm"
   },
-  "general":{
-    "downloadApp":"Download Sama Now"
+  "general": {
+    "downloadApp": "Download Sama Now"
   },
-  "download":{
-
+  "download": {
+    "caption": "Your trip is organized and planned completely",
+    "caption1": "Get full travel packages that we follow with you from boarding the plane until safely returning",
+    "caption2": "In your application",
+    "caption3": "* Balance of 1000 upon first download",
+    "caption4": "Price differences when paying and booking fully booked hotels are mistakes.. You always end up comparing hotel and ticket prices and have to make sure 100 times that the hotel reservation is the same as your request, and the late response annoys you, your time is counted",
+    "option1": "Tickets for today are ready six months in advance",
+    "option1Caption": "Lower prices",
+    "option2": "Comfort",
+    "option2Caption": "Packages include hotels, flights, and all activities",
+    "option3": "Luxury",
+    "option3Caption": "Multiple options for your accommodation",
+    "descriptionHeader": "Sama application gathers all travel and tourism offices in one place for you",
+    "descriptionCaption": "10,000+ downloads.. Rating ⭐⭐⭐⭐⭐ 4.5/5 on Google Store",
+    "description1Title": "Highly credible travel offices",
+    "description1": "We protect you from deception from unknown entities, now all added offices are registered and authenticated",
+    "description2Title": "Canceling and amending the trip smoothly",
+    "description2": "Meeting amendments before travel time with a team available 24 hours a day",
+    "description3Title": "Answers to your travel questions",
+    "description3": "A dedicated number for inquiries for every question about destinations and trip details",
+    "description4Title": "Additional services to complement the trip",
+    "description4": "Booking cars, international driver's license services, and visa services are available",
+    "question": "Think about these questions",
+    "question1": "If I have a problem, who will help me?",
+    "answer1": "The presence of a hotline and WhatsApp operating 24 hours a day without interruption for emergency cases, and it is attached with your booking file",
+    "question2": "Can I know the conditions of the country I'm going to?",
+    "answer2": "Any inquiry is clarified by the travel advisor before booking via the inquiry number",
+    "question3": "Do I need a visa or not?",
+    "answer3": "When a visa is needed, it is arranged by the office you book with, and the costs are included in the package",
+    "question4": "Will the driver be available upon arrival?",
+    "answer4": "If you need a driver or want to book a private car for rent, we clarify it for you through the tracking program",
+    "payment": "What are the available payment methods?"
   }
 }
+

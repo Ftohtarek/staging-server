@@ -160,10 +160,13 @@
     "caption": "Your trip is organized and planned completely",
     "caption1": "Get full travel packages that we follow with you from boarding the plane until safely returning",
     "caption2": "In your application",
-    "caption3": "* Balance of 1000 upon first download",
-    "caption4": "Price differences when paying and booking fully booked hotels are mistakes.. You always end up comparing hotel and ticket prices and have to make sure 100 times that the hotel reservation is the same as your request, and the late response annoys you, your time is counted",
-    "option1": "Tickets for today are ready six months in advance",
-    "option1Caption": "Lower prices",
+    "caption3.1": "* Balance of ",
+    "caption3.2": "* 1000 SAR",
+    "caption3.3": " upon first download",
+    "caption4.1": "Price differences when paying and booking fully booked hotels are mistakes..",
+    "caption4.2": "You always end up comparing hotel and ticket prices and have to make sure 100 times that the hotel reservation is the same as your request, and the late response annoys you, your time is counted",
+    "option1Caption": "Tickets for today are ready six months in advance",
+    "option1": "Lower prices",
     "option2": "Comfort",
     "option2Caption": "Packages include hotels, flights, and all activities",
     "option3": "Luxury",
@@ -188,4 +191,3 @@
     "payment": "What are the available payment methods?"
   }
 }
-
